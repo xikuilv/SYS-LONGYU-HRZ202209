@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='Styles/ImExportLog.xsl'?>
+<root>
+	<prefix>
+		<prefixentry name='Copyright (C) SIEMENS AG 2017'></prefixentry>
+		<prefixentry name=''></prefixentry>
+		<prefixentry name='产品：'>SIMATIC WinCC flexible SMART</prefixentry>
+		<prefixentry name='版本：'>V3 SP2</prefixentry>
+		<prefixentry name='用户：'>zy</prefixentry>
+		<prefixentry name='工作站：'>DESKTOP-DV3DA0M</prefixentry>
+		<prefixentry name='内容：'>导出过程变量</prefixentry>
+		<prefixentry name=''></prefixentry>
+	</prefix>
+	<header>
+		<headerentry name='类型'></headerentry>
+		<headerentry name='日期/时间'></headerentry>
+		<headerentry name='行'></headerentry>
+		<headerentry name='消息'></headerentry>
+	</header>
+	<Entry type='Info'>
+		<DateTime>09/21/2022 13:53:05</DateTime>
+		<Line>-</Line>
+		<Message>导出过程已经启动。</Message>
+	</Entry>
+	<Entry type='Info'>
+		<DateTime>09/21/2022 13:53:05</DateTime>
+		<Line>-</Line>
+		<Message>导出了 61 个元素。</Message>
+	</Entry>
+</root>
